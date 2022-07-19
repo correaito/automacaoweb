@@ -2,8 +2,6 @@
 
 ### Objetivo: treinar um projeto em que a gente tenha que usar automações web com Selenium para buscar as informações que precisamos
 
-- Já fizemos um projeto com esse objetivo no Módulo de Python e Web, mas não custa nada treinar mais um pouco.
-
 ### Como vai funcionar:
 
 - Imagina que você trabalha na área de compras de uma empresa e precisa fazer uma comparação de fornecedores para os seus insumos/produtos.
