@@ -15,6 +15,8 @@ def transformar_texto(texto):
 
 # vamos instalar o webdriver
 driver = webdriver.Chrome(ChromeDriverManager().install())
+
+# e aqui, deixei comentado, mas esse metodo esconde o navegador, pois o argumento --headless da problema em alguns sites
 #driver.set_window_position(-10000,0)
 
 enviar_email = False
