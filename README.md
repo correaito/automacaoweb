@@ -22,7 +22,7 @@
 ### O que devemos fazer:
 
 - Cadastrar na coluna Preço Atual o menor preço encontrado e na Coluna Local o nome do Local onde foi encontrado esse preço
-- Enviar um e-mail para compras com a notificação do menor preço encontrado e o link de compra, caso o preço encontrado esteja com 20% ou mais de desconto em relação ao preço original. (Vou usar o e-mail pythonimpressionador+compras@gmail.com. Use um e-mail seu para fazer os testes para ver se a mensagem está chegando)
+- Enviar um e-mail para compras com a notificação do menor preço encontrado e o link de compra, caso o preço encontrado esteja com 20% ou mais de desconto em relação ao preço original. (Vou usar o e-mail correaito+compras@gmail.com. Use um e-mail seu para fazer os testes para ver se a mensagem está chegando)
 
 ### Adicional:
 
