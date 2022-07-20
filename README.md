@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido como um Projeto Pessoal, com as seguintes tecnolog
 
 - [Python](https://www.python.org/ "Python")
 - [Pandas](https://pandas.pydata.org/ "Pandas")
-- [Pandas](https://selenium-python.readthedocs.io/ "Selenium")
+- [Selenium](https://selenium-python.readthedocs.io/ "Selenium")
 - [Pywin32](https://pypi.org/project/pywin32/ "Pywin32")
 
 <a id="informacao-uso" class="anchor"></a>
