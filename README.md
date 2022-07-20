@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido como um Projeto Pessoal, com as seguintes tecnolog
 
 - [Python](https://www.python.org/ "Python")
 - [Pandas](https://pandas.pydata.org/ "Pandas")
+- [Pandas](https://selenium-python.readthedocs.io/ "Selenium")
 - [Pywin32](https://pypi.org/project/pywin32/ "Pywin32")
 
 <a id="informacao-uso" class="anchor"></a>
@@ -47,7 +48,7 @@ Agora, para executar o script, dentro do PyCharm, abra o arquivo main.py, clique
 - No nosso caso, vamos fazer com produtos comuns em sites como Amazon, Magazine Luiza e Lojas Americanas, mas a ideia é a mesma.
 
 <a id="infoimportantes" class="anchor"></a>
-### :open_file_folder:  O que temos disponiveis?
+### :mag_right:  O que temos disponiveis?
 
 - Planilha de Produtos, com os nomes dos produtos e o link em cada loja, além do preço original cadastrado.
 
