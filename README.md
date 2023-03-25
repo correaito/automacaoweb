@@ -65,4 +65,4 @@ Agora, para executar o script, dentro do PyCharm, abra o arquivo main.py, clique
 - Caso queira, você pode deixar o navegador sem aparecer ao término do seu código, para ficar mais sutil o seu programa
 
 ------------
-Feito com ♥ por Alan Garmatter. [Visite meu LinkedIn](https://www.linkedin.com/in/alan-garmatter-8a05601b8/)! 👋
+Feito com ♥ por Alan Garmatter 👋 
